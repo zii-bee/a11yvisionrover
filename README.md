@@ -110,10 +110,10 @@ This project is licensed under the MIT License. See `LICENSE` for details.
 
 ## Contributors
 
-- [Your Name](https://github.com/your-username)
+- [zii-bee](https://github.com/zii-bee)
 
 ## Acknowledgments
 
 - OpenAI for GPT-4 and TTS models
-- Viam for providing a robust robotics platform
+- Viam for the robotics framework
 
