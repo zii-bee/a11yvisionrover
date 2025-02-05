@@ -24,8 +24,8 @@ Ensure you have the following installed:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/chessmate.git
-cd chessmate
+git clone https://github.com/zii-bee/a11yvisionrover.git
+cd a11yvisionrover
 ```
 
 ### Install Dependencies
@@ -59,9 +59,10 @@ python main.py
 - **Press `q` + Enter:** Quit the program.
 
 ## Project Structure
-
+Create a virtual environment upon installation using the steps described below. 
 ```
-ChessMate/
+a11yvisionrover/
+├── venv             # Library installations
 ├── config.py        # Configuration file for API keys and robot address
 ├── capture.py       # Handles image capture and robot rotation
 ├── vision_utils.py  # Vision processing and image analysis
