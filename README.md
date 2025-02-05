@@ -109,10 +109,6 @@ a11yvisionrover/
 
 This project is licensed under the MIT License. See `LICENSE` for details.
 
-## Contributors
-
-- [zii-bee](https://github.com/zii-bee)
-
 ## Acknowledgments
 
 - OpenAI for GPT-4 and TTS models
