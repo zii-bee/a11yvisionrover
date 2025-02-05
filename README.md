@@ -1,6 +1,6 @@
 # A11y VisionRover with Near-RealTime Vision & Speech
 
-A11yVisionRover is a real-time robotics application that integrates computer vision and text-to-speech capabilities. Using a Viam-based robot, this program captures images of its environment, processes them with OpenAI's GPT-4 to generate concise room descriptions, and converts these descriptions to speech. The application also includes a follow mode where the robot tracks objects in its field of view.
+A11yVisionRover is a real-time robotics application that integrates computer vision and text-to-speech capabilities. Using a Viam-based robot, this program captures images of its environment, processes them with OpenAI's GPT-4 to generate concise room descriptions, and converts these descriptions to speech to aid visually impaired individuals. The application also includes a follow mode where the robot tracks objects in its field of view.
 
 ## Features
 
