@@ -69,6 +69,7 @@ a11yvisionrover/
 ├── speech.py        # Text-to-speech conversion
 ├── follow.py        # Object following logic
 ├── main.py          # Main script to run the application
+├── fullscript.py    # Combined single script to run in-place of main.
 ├── requirements.txt # Dependencies
 ├── README.md        # Project documentation
 └── .env             # Environment variables (not tracked in version control)
