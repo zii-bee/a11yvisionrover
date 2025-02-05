@@ -4,7 +4,7 @@ A11yVisionRover is a real-time robotics application that integrates computer vis
 
 ## Features
 
-- **Real-Time Robot Control:** Capture images and move the robot using Viam.
+- **Autonomous Robot Movement:** Move the robot using object detection on a color set pre-defined (can be improved).
 - **Computer Vision:** Rotate and capture multiple images to analyze room layout.
 - **AI Room Description:** Use OpenAI's GPT-4 to describe the room.
 - **Text-to-Speech:** Convert text descriptions to speech.
